@@ -6,4 +6,4 @@
 - This repository contains my personal notes and reflections on Nonviolent Communication (NVC). It is not an official explanation, but a learning log.
 
 # 成果物
-- [NVCを用いた会話のテンプレート](05_story_bord_final.md)
+- [NVCを用いた会話のテンプレート](basics/05_story_bord_final.md)
